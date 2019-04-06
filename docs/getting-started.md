@@ -35,4 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Hi there, here for the first time?  Check this out!
+If you're not sure where to begin, how about asking a question Here
+Good Luck!
